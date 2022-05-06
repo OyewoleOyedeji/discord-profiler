@@ -1,7 +1,5 @@
 # Discord Profiler Backend
 
----
-
 ## About this folder
 
 This folder contains the source code for the API of [htts://discord-profiler.vercel.app](https://discord-profiler.vercel.app)
