@@ -1,0 +1,9 @@
+{
+    "port": 3000,
+    "discord": {
+        "clientID": "",
+        "clientSecret": "",
+        "redirectUri": "/callback"
+    },
+    "secretKey": "acqioeGlS7ZzLlBvrGdskJwqwqq8Hj-Bib86W3tTt75Wvt-xUpyF4VqgPk65lY0WWo9D9BGI"
+}
