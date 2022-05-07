@@ -5,7 +5,7 @@
   "scripts": {
     "postinstall": "install-types --yarn",
     "start": "cross-env NODE_ENV=staging node ./bin/www",
-    "dev": "cross-env NODE_ENV=dev nodemon",
+    "dev": "cross-env NODE_ENV=dev nodemon ./bin/www",
     "generate:id": "nanoid --size 72"
   },
   "dependencies": {

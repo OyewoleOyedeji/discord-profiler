@@ -10,8 +10,8 @@ process.env.NODE_CONFIG_DIR = path.resolve('../', 'config')
 /**
  * Module dependencies
  */
-const helpers = require('../helpers/oauth')
-const extras = require('../helpers/extras')
+const helpers = require('../controllers/oauth')
+const extras = require('../controllers/extras')
 const config = require('config')
 
 /**
