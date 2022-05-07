@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "install-types --yarn"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^5.0.4",
+    "install-types": "^2.0.1",
+    "nuxt": "3.0.0-rc.1"
+  }
+}
