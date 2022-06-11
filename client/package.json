@@ -11,5 +11,6 @@
     "@nuxtjs/tailwindcss": "^5.0.4",
     "install-types": "^2.0.1",
     "nuxt": "3.0.0-rc.1"
-  }
+  },
+  "dependencies": {}
 }

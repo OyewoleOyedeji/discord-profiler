@@ -1,5 +1,12 @@
+<script setup lang="ts">
+useHead({
+  titleTemplate: (title: String) => `Discord Profiler - ${title}`,
+})
+</script>
+
 <template>
   <div>
-    <h1 class="text-red-500">Hello World</h1>
+    <MainNavbar />
+    <NuxtPage />
   </div>
 </template>
