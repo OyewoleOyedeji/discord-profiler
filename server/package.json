@@ -34,6 +34,6 @@
     "cross-env": "^7.0.3",
     "install-types": "^2.0.1",
     "nanoid": "^4.0.0",
-    "nodemon": "^2.0.18"
+    "nodemon": "^2.0.19"
   }
 }
