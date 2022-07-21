@@ -30,7 +30,7 @@
     "@types/lodash": "^4.14.182",
     "@types/morgan": "^1.9.3",
     "@types/nanoid": "^3.0.0",
-    "@types/nodemon": "^1.19.1",
+    "@types/nodemon": "^1.19.2",
     "cross-env": "^7.0.3",
     "install-types": "^2.0.1",
     "nanoid": "^4.0.0",
